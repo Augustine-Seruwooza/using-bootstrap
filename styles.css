@@ -1,0 +1,66 @@
+body{
+	width: 800px;
+	font-family: sans-serif;
+	padding: 50px;
+	margin: auto;
+	height: auto;
+	border: 5px solid blue;
+	border-style: dotted;
+	background-image: url(jut.jpg);
+}
+.webpage{
+ width: 800px;
+ height: auto;
+ margin: auto;
+}
+#container{
+	font-size: 16px;
+	font-family: sans-serif;
+	padding: 10px;
+
+
+}	
+.navigation{
+	background-color: aquamarine;
+
+}
+#header, h1, p{
+	text-align: center;
+	color: purple;
+}
+#me{
+   padding: 10px
+   margin: 0 auto;
+   text-align: center;
+}
+td th{
+	color: #dddddd;
+}
+.skills{
+	color: blue;
+}
+h3, h4{
+	color: orange;
+}
+ td, th{
+	color: yellow;
+}
+#copyright{
+	color: pink;
+	text-align: center;
+}
+#skills{
+	color: orange;
+}
+#employment{
+	color: red;
+}
+#contact{
+	color: tomato;
+}
+#personal{
+	color: yellow;
+}
+#image{
+	float: right;
+}
